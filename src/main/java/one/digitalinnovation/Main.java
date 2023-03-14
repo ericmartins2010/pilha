@@ -16,7 +16,7 @@ public class Main {
         System.out.println(minhaPilha.pop());
         System.out.println(minhaPilha);
 
-        //Adicionando mais um dado à pilha
+        //Adicionando mais um dado à pilha.
         minhaPilha.push(new No(99));
         System.out.println(minhaPilha);
 
